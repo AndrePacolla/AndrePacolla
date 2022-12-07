@@ -6,6 +6,6 @@ desenvolvimento FullStack.
 
 Hard Skills :  Html5 ,Css3, Java script  , Mysql ,Nodejs, Bootstrap ,React native,Git/GitHub.
 
-- 📫 Como chegar até mim ,
+- 📫 Como chegar até mim 
 -  E-MAIL : Andreluizzpacolla@outlook.com
 - Wpp : (19)99363-3928
