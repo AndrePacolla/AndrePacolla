@@ -23,6 +23,8 @@ Olá! Eu sou André Pacolla 🖐🏼
  <br/>
 Apaixonado por Tecnologia e pelo mundo do desenvolvimento 👨‍💻👨‍💻.
 <br/>
+<br/>
+
 Amante dos animais 🐾 🐕 🦜
 <br/>
 <br/>
