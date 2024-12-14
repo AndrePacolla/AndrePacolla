@@ -7,7 +7,7 @@ Olá! Eu sou André Pacolla 🖐🏼
 
 
 
-![Pacolla GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePacolla&show_icons=true&theme=dark)
+![Pacolla GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePacolla&show_icons=true&theme=radical)
 
 ## Tenho Experiência nas seguintes tecnologias.
  <div style = 'display: inline-block'><br/>
