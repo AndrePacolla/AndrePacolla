@@ -23,9 +23,10 @@ Olá! Eu sou André Pacolla 🖐🏼
  <br/>
  <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePacolla&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePacolla&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePacolla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePacolla&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePacolla&hide_progress=true)
 
 Apaixonado por Tecnologia e pelo mundo do desenvolvimento 👨‍💻👨‍💻.
 <br/>
